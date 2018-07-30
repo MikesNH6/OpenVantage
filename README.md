@@ -1,1 +1,3 @@
-# OpenVantage this is a project showcasing tasks using Spring boot and Angular 6
+# OpenVantage 
+
+This is a project showcasing simple CRUD tasks using Spring boot(API) and Angular 6(Front end)
