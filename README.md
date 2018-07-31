@@ -15,6 +15,8 @@ The Spring boot Api works but trying to create update and delete tasks from the 
 
 Make sure spring is running and the database is setup before you run angular.
 
+The angular file was too large to be uploaded so you might need to install a new project called task-ui with cmd"npm new task-ui" and then replace/add all the files in the folder i've uploaded. The only file that's missing is node_modules which should be added when you install it.
+
 The Angular ui can be run by pointing to the location of the folder in command prompt and typing in "npm start". If ofcourse angular is installed on your system. 
 
 The server runs on http://localhost:4200/
