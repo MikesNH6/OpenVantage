@@ -24,3 +24,8 @@ Routes that may help:
 http://localhost:4200/admin
 http://localhost:4200/
 http://localhost:4200/server/api/tasks/1 (This is to query the database from angular)
+
+2018_08_01_Update__________________________________________________________________________________________________________________
+All CRUD functionality is working!
+
+I have updated both the Spring file and the Angular file so please make sure to use them both.  
